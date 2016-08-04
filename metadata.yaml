@@ -1,0 +1,27 @@
+_repo: Appreciations-of-Richard-Harding-Davis_406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: Appreciations by Gouverneur Morris, Booth Tarkington, Charles Dana Gibson,
+  E. L. Burlingame, Augustus Thomas, Theodore Roosevelt, Irvin S. Cobb, John Fox,
+  Jr., Finley Peter Dunne, Winston Churchill, Leonard Wood, John T. McCutcheon.
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Davis, Richard Harding, 1864-1916'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- GITenberg
+title: Appreciations of Richard Harding Davis
+url: http://www.gutenberg.org/ebooks/406
